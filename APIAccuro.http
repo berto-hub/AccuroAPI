@@ -1,0 +1,6 @@
+@APIAccuro_HostAddress = http://localhost:5034
+
+GET {{APIAccuro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
